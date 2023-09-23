@@ -1,3 +1,4 @@
 # Pinaka
-Automated Plant Care System
+Automated Plant Care System.
+<br>
 Author Amit 
