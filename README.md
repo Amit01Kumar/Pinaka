@@ -1,4 +1,4 @@
 # Pinaka
 Automated Plant Care System.
 <br>
-Author Amit 
+Author Amit Kumar
